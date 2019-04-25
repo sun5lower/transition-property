@@ -6,7 +6,9 @@
   
   ### BOX changes it's size and color when hovered over
   
-  Here is the link: https://transitionproperty-dustyblue.c9users.io/index.html
+  Here are the links: https://transitionproperty-dustyblue.c9users.io/index.html
+  
+  https://sun5lower.github.io/transition-property/
   
   Transition property allows us to trigger a style change to a HTML element
   
