@@ -1,18 +1,17 @@
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
 
-
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
-
-Happy coding!
-The Cloud9 IDE team
+  # Transition property
+  
+  ## Here is an example of CSS transition 
+  
+  ### BOX changes it's size and color when hovered over
+  
+  Here is the link: https://transitionproperty-dustyblue.c9users.io/index.html
+  
+  Transition property allows us to trigger a style change to a HTML element
+  
+  #### I've used: 
+  1. CSS
+  2. HTML
+  3. GitHub
+  
